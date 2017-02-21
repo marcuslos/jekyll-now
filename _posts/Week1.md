@@ -1,10 +1,6 @@
 ---
 title: Week 1
-layout: post
-author: marcus.los
-permalink: /lesson-1-introduction-to-fuse-box/
-source-id: 1_H9ZGcrtEMlgdzbc91Q9yd31KOqkLudxvlolF6GrA6A
-published: true
+
 ---
 <table>
   <tr>
