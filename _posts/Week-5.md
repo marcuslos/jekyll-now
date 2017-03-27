@@ -1,11 +1,5 @@
 ---
 title: Week 5
-layout: post
-author: marcuslos
-permalink: /week-5/
-source-id: 1cGqWaNo_WHLhtWyN94I8eSwr6d_LADOC9Wf6P3lqrVM
-published: true
----
 	
 
 <table>
