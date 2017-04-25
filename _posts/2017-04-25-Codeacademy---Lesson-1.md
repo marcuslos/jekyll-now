@@ -1,6 +1,5 @@
 ---
- Codeacademy - Lesson 1
-
+ 
 <table>
   <tr>
     
