@@ -1,16 +1,10 @@
----
-title: Codecademy week 4
-layout: post
-author: marcus.los
-permalink: /codecademy-week-4/
-source-id: 1tONE1CxG9mqIvJideWCoZSFi_I_E4g5FM9LGOxq2vzU
-published: true
----
+ Codecademy week 4
+
 <table>
   <tr>
-    <td>Title</td>
+ 
     <td>Carrying on with Codecademy </td>
-    <td>Date</td>
+  
     <td>04/07/17</td>
   </tr>
 </table>
