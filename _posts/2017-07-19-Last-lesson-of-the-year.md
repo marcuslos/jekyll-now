@@ -1,11 +1,5 @@
----
-title: Last lesson of the year
-layout: post
-author: marcus.los
-permalink: /last-lesson-of-the-year/
-source-id: 1JO7-S9L9YxqBOww1uO89Z-ZKfzo3VM7RL11hUMnhIBA
-published: true
----
+ Last lesson of the year
+
 <table>
   <tr>
     <td>Title</td>
